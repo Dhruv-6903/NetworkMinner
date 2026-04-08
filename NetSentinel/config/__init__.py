@@ -1,0 +1,1 @@
+# NetSentinel config package
